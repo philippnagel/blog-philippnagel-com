@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 24 Jun 2021 20:00:11 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[hello-world]]></title>
+            <description><![CDATA[<h1 id="test">Test</h1>
+<p>Hello World</p>
+]]></description>
+            <link>https://blog.philippnagel.com/post/hello-world</link>
+            <guid isPermaLink="true">https://blog.philippnagel.com/post/hello-world</guid>
+            <pubDate>Thu, 24 Jun 2021 19:59:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
