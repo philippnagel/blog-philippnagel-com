@@ -13,12 +13,15 @@ theme = [
 disableLiveReload = false # Optional, set true to disable live reload
 enableRobotsTXT = true # Suggested, enable robots.txt file
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [menu]
   [[menu.main]]
     identifier = "Blog"
     name = "Blog"
     title = "Blog"
-    url = ""
+    url = "/index.html"
     weight = 1
   [[menu.main]]
     identifier = "Home"
@@ -26,6 +29,12 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
     title = "Home"
     url = "https://philippnagel.com"
     weight = 2
+  [[menu.main]]
+    identifier = "Search"
+    name = "Search"
+    title = "Search"
+    url = "/search"
+    weight = 3  
 
 [markup.goldmark.renderer]
   unsafe = true # Optional, allows HTML inside your CommonMark content
