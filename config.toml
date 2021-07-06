@@ -35,6 +35,12 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
     title = "Search"
     url = "/search"
     weight = 3  
+  [[menu.main]]
+  identifier = "Contact"
+  name = "Contact"
+  title = "Contact"
+  url = "/contact"
+  weight = 4    
 
 [markup.goldmark.renderer]
   unsafe = true # Optional, allows HTML inside your CommonMark content

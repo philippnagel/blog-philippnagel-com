@@ -5,7 +5,7 @@ draft: false
 ---
 [1729.com](https://1729.com/crypto-crystal-ball-2021) asked to review the 2021 predictions for the crypto space compiled by [Soona Amhaz](https://medium.com/tokendaily/the-2021-crypto-crystal-ball-fac70de8aac3).
 
-The collected predictions are mostly interesting and made by even more interesting people. However I believe that most of them have little more than enterainment value due to the lack of accurately defined target conditions.
+The collected predictions are mostly interesting and made by even more interesting people. However I believe that most of them have little more than entertainment value due to the lack of accurately defined target conditions.
 
 For example it is unclear how one would assess the following statements as fulfilled: 
 
@@ -32,4 +32,4 @@ and
 
 > "The bitcoin price: will go down will go up Buckle up!" - [Amiti Uttarwar](https://twitter.com/amizi)
 
-Tweet me [@philippnag](https://twitter.com/philippnag). I will be thinking about my predictions for 2022. Happy to hear about your recommended, decentralized betting products.
+Tweet me [@philippnag](https://twitter.com/philippnag). I will be thinking about my predictions for 2022. Happy to hear about your recommended, decentralized betting products to get some skin in the game.
