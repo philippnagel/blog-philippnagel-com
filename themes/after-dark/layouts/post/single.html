@@ -42,6 +42,11 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
     <div itemprop="articleBody">
       {{ .Content }}
     </div>
+
+    <div> 
+       {{ partial "post/comment.html" . }}
+    </div>
+
     <footer>
       <hr>
       {{ partial "post/byline.html" . }}
