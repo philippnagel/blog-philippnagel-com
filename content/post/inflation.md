@@ -15,7 +15,7 @@ images = [
   license = "cc-by-nc-sa-4.0"
 +++
 
-In the beginning of August 2021 [1729](https://1729.com) raised an interesting task: "Build a censorship-resistant inflation dashboard" [^1]
+In the beginning of August 2021 [1729](https://1729.com) raised an interesting task: "Build a censorship-resistant inflation dashboard" [^1].
 
 Soon Matthew Fontana from [Steamr](https://streamr.network/) pitched in another USD 50K if one were to use their tech in addition to Chainlink. This brings the total potential reward to a total of 150k USD in $DATA and $LINK.
 
