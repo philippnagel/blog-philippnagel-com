@@ -1,6 +1,6 @@
 ---
 title: "How to use an Apple Ethernet to USB Adapter on Windows 10"
-date: 2021-09-015T16:15:58+02:00
+date: 2021-09-15T18:41:41+00:00
 draft: false
 ---
 I recently had the pleasure of working on one of these barely configurable Internet modem/router devices that comes with the contract from your friendly ISP.
